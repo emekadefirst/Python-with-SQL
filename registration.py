@@ -1,4 +1,4 @@
-from db import *
+from bank import *
 
 def registration():
     country_code = {
