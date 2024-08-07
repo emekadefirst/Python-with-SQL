@@ -1,6 +1,6 @@
 import sqlite3
 
-con = sqlite3.connect('opay.db')
+con = sqlite3.connect('bank.db')
 db = con.cursor()
 db.execute('''CREATE TABLE IF NOT EXISTS users
             (
