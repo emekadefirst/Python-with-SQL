@@ -1,4 +1,4 @@
-from db import *
+from database import *
 
 def registration():
     country_code = {

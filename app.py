@@ -1,5 +1,5 @@
 from registration import registration
-from db import *
+from database import *
 
 # print(registration())
 
