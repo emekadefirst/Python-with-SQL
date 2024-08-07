@@ -6,3 +6,4 @@ from database import *
 print(get_all())
 print(get_by_id(1))
 print(delete(1))
+print(delete)
